@@ -1,6 +1,7 @@
 Codeigniter Project - CRUD Operation
 
 To start this Project use XAMPP as a webserver and run the below sql syntax to create your database
+
 Database Name: ci4tutorial
 CREATE TABLE news (
     id INT UNSIGNED NOT NULL AUTO_INCREMENT,
